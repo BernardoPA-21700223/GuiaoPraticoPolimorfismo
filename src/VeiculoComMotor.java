@@ -17,8 +17,8 @@ public abstract class VeiculoComMotor extends Veiculo {
         this.ligado = false;
     }
 
-    @Override
-    abstract boolean move();
+   // @Override
+   // abstract boolean move();
 
 
 }
